@@ -11,7 +11,7 @@ npx create-react-app <your_application_name> --template cra-subgraph
 
 #### NPM Registry 
 
-`npm install create-subgraph-appp` -- [🔗 npm/create-subgraph-app]/(https://npmjs.com/package/create-subgraph-app)
+`npm install create-subgraph-appp` -- [🔗 npm/create-subgraph-app](https://npmjs.com/package/create-subgraph-app)
 
 ### Usage
 

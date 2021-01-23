@@ -1,0 +1,4 @@
+templates/
+templates/package.json
+templates/*.json
+.github/

@@ -1,6 +1,6 @@
 {
   "name": "create-subgraph-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/sambacha/create-subgraph-app.git"
   },
-  "keywords": ["ethereum", "subgraph", "web3", "react", "grahpql"],
+  "keywords": [
+    "ethereum",
+    "subgraph",
+    "web3",
+    "react",
+    "grahpql"
+  ],
   "author": "sam bacha <sam@freighttrust.com>",
   "license": "Apache-2.0",
   "bugs": {

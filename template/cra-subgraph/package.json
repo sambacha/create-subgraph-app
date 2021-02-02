@@ -16,7 +16,7 @@
     "apollo-link-http": "1.5.17",
     "apollo-link-ws": "1.0.20",
     "dotenv-flow": "3.2.0",
-    "graphql": "14.7.0",
+    "graphql": "15.5.0",
     "graphql-tag": "2.11.0",
     "react": "16.14.0",
     "react-dom": "16.14.0",

@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@apollo/react-hooks": "3.1.5",
+    "@apollo/react-hooks": "4.0.0",
     "@protofire/subgraph-toolkit": "0.1.1",
     "@types/jest": "24.9.1",
     "@types/node": "12.19.15",

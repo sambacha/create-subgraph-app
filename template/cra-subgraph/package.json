@@ -6,7 +6,7 @@
     "@apollo/react-hooks": "4.0.0",
     "@protofire/subgraph-toolkit": "0.1.1",
     "@types/jest": "26.0.20",
-    "@types/node": "12.20.1",
+    "@types/node": "12.20.2",
     "@types/react": "17.0.2",
     "@types/react-dom": "17.0.1",
     "apollo-cache-inmemory": "1.6.6",

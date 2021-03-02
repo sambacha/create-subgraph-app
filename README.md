@@ -1,5 +1,7 @@
 # Create Subgraph Application
 
+[![nodejs](https://github.com/sambacha/create-subgraph-app/actions/workflows/nodejs.yml/badge.svg?branch=workflow)](https://github.com/sambacha/create-subgraph-app/actions/workflows/nodejs.yml)
+
 > Web3 React App Template utilizing TheGraph
 
 

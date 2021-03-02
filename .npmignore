@@ -3,4 +3,4 @@
 .github/
 .prettierrc.json
 .prettierignore
-
+.prettierrc.js

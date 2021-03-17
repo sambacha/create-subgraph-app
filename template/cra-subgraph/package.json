@@ -5,7 +5,7 @@
   "dependencies": {
     "@apollo/react-hooks": "4.0.0",
     "@protofire/subgraph-toolkit": "0.1.1",
-    "@types/jest": "26.0.20",
+    "@types/jest": "26.0.21",
     "@types/node": "12.20.6",
     "@types/react": "17.0.3",
     "@types/react-dom": "17.0.2",

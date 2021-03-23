@@ -2,7 +2,7 @@
   "package": {
     "homepage": "./",
     "name": "cra-subgraph-boilerplate",
-    "version": "1.0.0",
+    "version": "1.0.5",
     "dependencies": {
       "@apollo/react-hooks": "^3.0.1",
       "@protofire/subgraph-toolkit": "0.1.1",

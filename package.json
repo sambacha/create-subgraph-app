@@ -2,7 +2,10 @@
   "name": "create-subgraph-app",
   "version": "1.0.5",
   "description": "cra-subgraph-boilerplate",
-  "files": ["cra-subgraph/package.json", "cra-subgraph/**/*"],
+  "files": [
+    "cra-subgraph/package.json",
+    "cra-subgraph/**/*"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

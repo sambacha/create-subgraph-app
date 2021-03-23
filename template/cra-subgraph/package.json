@@ -1,7 +1,7 @@
 {
   "name": "cra-subgraph-boilerplate",
   "version": "0.2.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@apollo/react-hooks": "4.0.0",
     "@protofire/subgraph-toolkit": "0.1.1",

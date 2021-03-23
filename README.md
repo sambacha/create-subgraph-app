@@ -4,6 +4,10 @@
 
 > Web3 React App Template utilizing TheGraph
 
+## Notes
+
+Set `ETHEREUM_REORG_THRESHOLD=1` and `ETHEREUM_ANCESTOR_COUNT=1` in the thegraph service, it will only query for the latest block and its transaction receipts on startup
+
 
 ## Install
 

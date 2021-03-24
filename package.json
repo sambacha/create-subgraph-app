@@ -1,6 +1,6 @@
 {
   "name": "create-subgraph-app",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "cra-subgraph-boilerplate",
   "files": [
     "cra-subgraph/package.json",
